@@ -35,7 +35,7 @@ git status
 ```
 8. Move the change from staging area to local repo. This is called as commit
 ```
-git commit -m <your message>
+git commit -m "your message"
 ```
 9. Check status & history
 ```
